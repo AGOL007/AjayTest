@@ -1,0 +1,60 @@
+**********************************************************
+
+Test Error for : 91
+Error Time : 9/9/2015 9:25:17 PM
+Error Class : NetworkConfiguration
+Error Method: WAB_NetworkConfiguration
+Error : Values  matches with the config file
+
+**********************************************************
+
+**********************************************************
+
+Test Error for : 91
+Error Time : 9/9/2015 9:25:17 PM
+Error Class : NetworkConfiguration
+Error Method: WAB_NetworkConfiguration
+Error : Config Values  matches with the application tags
+
+**********************************************************
+
+**********************************************************
+
+Test Error for : 91
+Error Time : 9/9/2015 9:25:17 PM
+Error Class : NetworkConfiguration
+Error Method: WAB_NetworkConfiguration
+Error : Values  matches with the config file for Overview Panel
+
+**********************************************************
+
+**********************************************************
+
+Test Error for : 91
+Error Time : 9/9/2015 9:25:17 PM
+Error Class : NetworkConfiguration
+Error Method: WAB_NetworkConfiguration
+Error : Values  matches with the config file for Other Panel
+
+**********************************************************
+
+**********************************************************
+
+Test Error for : 91
+Error Time : 9/9/2015 9:25:17 PM
+Error Class : NetworkConfiguration
+Error Method: WAB_NetworkConfiguration
+Error : Widget Values  matches with the config file
+
+**********************************************************
+
+**********************************************************
+
+Test Error for : 91
+Error Time : 9/9/2015 9:25:17 PM
+Error Class : NetworkConfiguration
+Error Method: WAB_NetworkConfiguration
+Error : OUTPUT Widget Values  matches with the config file
+
+**********************************************************
+
